@@ -1,0 +1,7 @@
+.error-field {
+  color: red;
+}
+
+.no-error-field {
+  display: none;
+}
